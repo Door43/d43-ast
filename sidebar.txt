@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ast:home|Door43 (ast)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ast|d43-ast repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ast/archive/master.zip|d43-ast.zip]]
+
+**Recent Changes**
+{{changes>ns = ast}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ast|Ethnologue data]]
+
